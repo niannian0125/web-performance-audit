@@ -1,0 +1,15 @@
+# Operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local credentials and temporary editor state
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.log
+*.tmp
+.vscode/
+.idea/

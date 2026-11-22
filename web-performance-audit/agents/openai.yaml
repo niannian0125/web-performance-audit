@@ -1,0 +1,4 @@
+interface:
+  display_name: "把性能吐出来！"
+  short_description: "Trace slow mobile UI, media imports, and lingering timers"
+  default_prompt: "Use $web-performance-audit to investigate slowdowns on mobile, identify the first change worth making, and explain how to retest it."
