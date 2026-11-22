@@ -1,0 +1,166 @@
+把性能吐出来！个人非商业使用与再发布许可 1.0
+Personal Noncommercial Use and Redistribution License 1.0
+
+Copyright © 2026 niannian. 保留未明确授予的权利。
+
+中文许可正文
+============
+
+1. 适用范围
+
+原作者及许可人为 niannian，原作名称为《把性能吐出来！》，Skill 标识为
+web-performance-audit。“本材料”包括随本许可发布的 Skill 指令、说明、复测
+场景、配置及这些内容的修改版。本许可不改变被审查项目的既有代码、数据或
+其他独立作品的权利归属，也不因此授权任何商业用途。
+
+2. 允许的使用
+
+在遵守以下条件的前提下，允许自然人出于个人非商业目的，下载、安装、使用、
+复制、分享、修改本材料，并重新发布原版或修改版。允许直接分享原作或修改版
+的来源链接。非商业是指并非主要为了商业利益或金钱报酬；免费提供不自动等于
+非商业。企业、组织业务，以及代表雇主或付费客户开展的使用，不属于本许可
+授予的个人使用范围。
+
+3. 署名与修改说明
+
+分享或重新发布本材料时，应在随附说明或其他容易找到的位置：
+
+- 注明原作者 niannian 和原作名称《把性能吐出来！》；
+- 保留原作的版权声明、本许可完整文本及随原作提供的来源链接；如取得本材料
+  的上游公开地址已知，应提供该来源地址；
+- 对修改版说明已作修改及主要改动，不得使他人误认为它是原作者发布或认可的
+  官方版本。修改者可以增加自己的署名，但不得替换或删除原作者署名。
+
+4. 再发布条件
+
+原版和修改版的再发布仍须遵守本许可对个人非商业使用和平台内嵌的限制。
+再发布时应随材料提供完整 LICENSE；单独发布 Skill 文件夹时，也须保留其内
+的 LICENSE。不得通过改名、翻译、修改、重新打包或另加许可来授予本材料超出
+本许可范围的商业使用或平台内嵌权利。修改者保留其自行新增内容的相应权利，
+但无权代替原作者放宽原作的授权范围。
+
+5. 禁止商业使用与第三方平台内嵌
+
+未经 niannian 另行明确书面授权，禁止销售本材料、付费打包、将其用于付费
+审计或开发服务、商业产品运营，以及其他超出个人非商业范围的使用。
+
+禁止将本材料的原版或修改版内置、预装、封装、打包集成，或托管为面向他人
+的第三方网站、App、SaaS、机器人平台、Skill 商店或其他平台的一项功能或
+内置资源，无论该平台免费还是收费。平台经营者或开发者不得以“替用户安装”
+为名，把本材料作为平台自带、预装或托管的能力向他人提供。
+
+以下行为本身不属于上述平台内嵌，但仍须符合本许可的其他条件：
+
+- 个人作为终端用户，将本材料安装到自己使用的 Codex、Claude Code 等工具，
+  用于本人的非商业项目；
+- 以独立源码仓库或文件发布页分享原版或修改版，满足署名、许可保留和非商业
+  条件，且不将其集成为另一平台的功能或内置资源；
+- 仅介绍本材料并提供来源链接，而不托管、预装或提供其功能。
+
+6. 法定权利与托管平台条款
+
+本许可不限制适用法律保留的使用权利，也不否定公开仓库依 GitHub 服务条款
+已经授予的 GitHub 内查看、Fork 等权限。这些托管平台权限不额外授予本许可
+之外的商业使用或第三方平台内嵌权利。
+
+7. 其他条款
+
+超出上述许可范围的用途，须先取得 niannian 另行明确书面授权。本材料按现状
+提供；在适用法律允许的范围内，不提供适用性、准确性或无错误等保证，原作者
+亦不承担使用本材料产生的损失责任。本许可是自定义限制性许可，不是 MIT、
+Apache、标准 Creative Commons 或 OSI 认可的开源许可证。中英文有歧义时，
+以中文许可正文为准。
+
+
+English translation
+===================
+
+Copyright © 2026 niannian. Rights not expressly granted are reserved.
+
+1. Scope
+
+The original author and licensor is niannian. The original work is titled
+“把性能吐出来！” and its skill identifier is web-performance-audit. “Material”
+means the skill instructions, documentation, retest scenarios, configuration,
+and modified versions of those contents distributed with this license. This
+license does not change the ownership of existing code or data in an audited
+project, or of other independent works, and does not authorize commercial use.
+
+2. Permitted use
+
+Subject to these terms, individuals may download, install, use, copy, share,
+modify, and republish the original or modified Material for personal,
+noncommercial purposes. Sharing source links to the original or a modified
+version is permitted. Noncommercial means not primarily directed toward
+commercial advantage or monetary compensation; being free of charge does not
+by itself make a use noncommercial. Organizational or business operations,
+and work on behalf of an employer or paying client, are outside this personal
+use grant.
+
+3. Attribution and changes
+
+When sharing or republishing the Material, provide the following in accompanying
+documentation or another readily accessible location:
+
+- Credit niannian as the original author and “把性能吐出来！” as the original title.
+- Preserve the original copyright notice, this complete license, and source
+  links supplied with the original. Include the public upstream source address
+  from which you obtained the Material, if known.
+- Identify modified versions and describe the principal changes. Do not imply
+  that a modified version is an official release or endorsed by the original
+  author. You may add your own contributor credit without replacing or removing
+  the original author's credit.
+
+4. Redistribution conditions
+
+Redistributed original and modified versions remain subject to the personal,
+noncommercial and platform-integration restrictions of this license. Include the
+complete LICENSE with the Material; retain the skill folder's LICENSE when
+distributing that folder on its own. Renaming, translating, modifying,
+repackaging, or adding another license must not grant commercial-use or
+platform-integration rights to the Material beyond this license. Contributors
+retain their rights in their own additions but cannot broaden the original
+author's grant on the original Material.
+
+5. No commercial use or third-party platform integration
+
+Without separate express written permission from niannian, you may not sell the
+Material, sell bundles containing it, use it for paid auditing or development
+services or commercial product operations, or otherwise use it beyond personal,
+noncommercial purposes.
+
+You may not embed, preinstall, wrap, bundle, integrate, or host the original or
+modified Material as a feature or built-in resource of a third-party website,
+app, SaaS, bot platform, skill store, or other platform offered to others,
+whether paid or free. A platform operator or developer may not provide it as a
+built-in, preinstalled, or hosted platform capability by calling the arrangement
+“installation on behalf of users.”
+
+The following are not, by themselves, prohibited platform integration, provided
+all other terms of this license are met:
+
+- An individual end user installing the Material into their own Codex, Claude
+  Code, or similar tool for their own noncommercial projects.
+- Sharing the original or a modified version in a standalone source repository
+  or file release, with attribution and the license preserved, for noncommercial
+  purposes, without integrating it as another platform's feature or built-in
+  resource.
+- Describing the Material and providing a source link without hosting,
+  preinstalling, or providing its functionality.
+
+6. Statutory rights and hosting terms
+
+This license does not limit rights reserved by applicable law or negate viewing,
+forking, and other permissions already granted within GitHub under its terms
+for public repositories. Those hosting permissions do not grant additional
+commercial-use or third-party platform-integration rights beyond this license.
+
+7. Other terms
+
+Uses outside this grant require separate express written permission from
+niannian. The Material is provided as is. To the extent permitted by applicable
+law, no warranties of fitness, accuracy, or freedom from errors are provided,
+and the original author is not liable for losses arising from its use. This is
+a custom restricted license, not MIT, Apache, a standard Creative Commons
+license, or an OSI-approved open source license. If the Chinese and English
+texts differ, the Chinese license text controls.
