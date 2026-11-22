@@ -12,7 +12,7 @@ English · [简体中文](SKILL.zh-CN.md)
 
 Original author: **niannian**. Personal noncommercial use and redistribution with attribution only; no third-party platform integration. See [LICENSE](LICENSE).
 
-Original source: [moonpoetry77-bot/web-performance-audit](https://github.com/moonpoetry77-bot/web-performance-audit).
+Original source: [niannian0125/web-performance-audit](https://github.com/niannian0125/web-performance-audit).
 
 Start with an action the user can reproduce. Identify the first change worth making, the work it would eliminate, and a test that would show the difference. Write the report in the user's language.
 

@@ -8,7 +8,7 @@ A performance audit skill for mobile websites, PWAs, and WebViews.
 
 By **niannian** · Skill ID: `web-performance-audit`
 
-Original source: [moonpoetry77-bot/web-performance-audit](https://github.com/moonpoetry77-bot/web-performance-audit)
+Original source: [niannian0125/web-performance-audit](https://github.com/niannian0125/web-performance-audit)
 
 Custom license: personal, noncommercial use; sharing and adaptations with attribution; no third-party platform integration. See [License](#license).
 

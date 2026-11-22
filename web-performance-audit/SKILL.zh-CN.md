@@ -4,7 +4,7 @@
 
 原作者：**niannian**。允许个人非商业使用、分享和署名修改后再发布，禁止内嵌第三方平台。完整条款见 [LICENSE](LICENSE)。
 
-原作来源：[moonpoetry77-bot/web-performance-audit](https://github.com/moonpoetry77-bot/web-performance-audit)。
+原作来源：[niannian0125/web-performance-audit](https://github.com/niannian0125/web-performance-audit)。
 
 用提问者的语言撰写报告。
 从玩家能感觉到的一次操作查起。先说最值得修的地方，指出哪段代码在什么操作下多做了多少工作，以及怎样确认它已经修好。

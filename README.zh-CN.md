@@ -6,7 +6,7 @@
 
 原作者：**niannian** · Skill 标识：`web-performance-audit`
 
-原作来源：[moonpoetry77-bot/web-performance-audit](https://github.com/moonpoetry77-bot/web-performance-audit)
+原作来源：[niannian0125/web-performance-audit](https://github.com/niannian0125/web-performance-audit)
 
 自定义许可：允许个人非商业使用、分享和署名修改后再发布，禁止内嵌第三方平台。详见[使用许可](#使用许可)。
 
